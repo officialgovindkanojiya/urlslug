@@ -1,0 +1,19 @@
+.yasham{
+    color: rgb(42, 176, 229);
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    text-decoration: none;
+    display: block;
+    text-align: center;
+}
+body{
+    background-image: url('https://theaeac.org/wp-content/uploads/2015/09/Chalkboard-Background.jpg ');
+}
+.terms{
+    margin-top: 50px;
+}
+
+
+/* card */
+
